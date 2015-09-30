@@ -1,0 +1,39 @@
+{
+  "name": "icompress",
+  "version": "0.1.0",
+  "description": "base on imagemin for image compress",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imochen/icompress.git"
+  },
+  "keywords": [
+    "imagemin",
+    "image",
+    "compress",
+    "png",
+    "gif",
+    "jpeg",
+    "tinypng"
+  ],
+  "author": "mochen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imochen/icompress/issues"
+  },
+  "homepage": "https://github.com/imochen/icompress#readme",
+  "dependencies": {
+    "imagemin": "^3.2.0",
+    "imagemin-gifsicle": "^4.2.0",
+    "imagemin-mozjpeg": "^5.1.0",
+    "imagemin-pngquant": "^4.2.0",
+    "q": "^1.4.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
