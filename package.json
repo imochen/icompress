@@ -1,6 +1,6 @@
 {
   "name": "icompress",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "base on imagemin for image compress",
   "main": "index.js",
   "scripts": {
